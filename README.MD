@@ -49,7 +49,7 @@ cd MovieRecommenderSystem
 
 
 #Create a virtual environment and install the required dependencies:
-
+ ```bash
 conda create -p venv python=3.9
 conda activate ./venv
 pip install -r requirements.txt
