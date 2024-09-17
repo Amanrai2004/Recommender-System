@@ -48,7 +48,7 @@ The dataset used in this project contains metadata about 5000 movies, including 
 cd MovieRecommenderSystem
 
 
-#Create a virtual environment and install the required dependencies:
+2. Create a virtual environment and install the required dependencies:
  ```bash
 conda create -p venv python=3.9
 conda activate ./venv
